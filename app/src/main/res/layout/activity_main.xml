@@ -137,6 +137,9 @@
         android:layout_marginBottom="30dp"
         android:ems="4"
         android:inputType="number"
+        android:text="0"
+        android:textAlignment="center"
+        android:textSize="30dp"
         app:layout_constraintBottom_toTopOf="@id/button_3A"
         app:layout_constraintEnd_toEndOf="@id/button_3A"
         app:layout_constraintStart_toStartOf="@id/button_3A" />
@@ -148,6 +151,9 @@
         android:layout_marginBottom="30dp"
         android:ems="4"
         android:inputType="number"
+        android:text="0"
+        android:textAlignment="center"
+        android:textSize="30dp"
         app:layout_constraintBottom_toTopOf="@id/button_3B"
         app:layout_constraintEnd_toEndOf="@id/button_3B"
         app:layout_constraintStart_toStartOf="@id/button_3B" />
